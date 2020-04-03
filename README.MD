@@ -1,15 +1,15 @@
 # Animal Crossing New Horizons Mods
 
-## Current mods
+### Current mods
 [Froggy Chair](https://github.com/HDR/ACNH-Mods/Froggy-Chair) - Replaces Wooden Chair
 
 
-## Videos
+### Videos
 ![](https://i.imgur.com/qV4YAJz.png)
 
 [Froggy Chair Video](https://youtu.be/3MQb6H0R9Jo)
 
 
-## Installing
+### Installing
 
 Just drop the atmosphere folder on the root of your sd card
