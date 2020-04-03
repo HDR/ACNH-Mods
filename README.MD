@@ -1,7 +1,7 @@
 # Animal Crossing New Horizons Mods
 
 ## Current mods
-[Froggy Chair](https://github.com/HDR/ACNH-Mods/Froggy-Chair)
+[Froggy Chair](https://github.com/HDR/ACNH-Mods/Froggy-Chair) - Replaces Wooden Chair
 
 
 ## Videos
